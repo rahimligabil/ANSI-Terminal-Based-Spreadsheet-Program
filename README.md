@@ -4,14 +4,12 @@ This repository contains two versions of a terminal-based spreadsheet program, d
 
 Both versions simulate basic spreadsheet functionalities in a text-based terminal interface using ANSI escape sequences.
 
----
 
 ## 📁 Project Structure
 
 - `SpreadSheet Program` → Initial version
 - `Spreadsheet Program Enhanced` → Extended version with modern C++ features
 
----
 
 ## 📌 Version 1: Basic Spreadsheet (C++)
 
@@ -27,7 +25,6 @@ This version implements a simplified spreadsheet that supports:
 - Language: C++
 - Features used: Classes, basic OOP, I/O streams
 
----
 
 ## 🚀 Version 2: Enhanced Spreadsheet (Modern C++)
 
@@ -47,7 +44,6 @@ This version extends the initial project with advanced C++ features and modern p
 - Language: Modern C++ (C++11 and above)
 - Features used: OOP + Templates + RAII + Exceptions
 
----
 
 ## 📦 How to Compile
 
