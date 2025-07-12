@@ -21,6 +21,7 @@ This version implements a simplified spreadsheet that supports:
 - Cell-based navigation
 - Basic text input
 - Class-based modular design
+- View like a VisiCalc
 
 ### Technologies
 
@@ -41,6 +42,8 @@ This version extends the initial project with advanced C++ features and modern p
 - Namespaces for modularity  
 - Templated classes  
 - Deepened class hierarchy and design
+- View like a VisiCalc
+
 
 ### Technologies
 
