@@ -11,6 +11,7 @@ Both versions simulate basic spreadsheet functionalities in a text-based termina
 - `Spreadsheet Program Enhanced` → Extended version with modern C++ features
 
 
+
  Version 1: Basic Spreadsheet (C++)
 
 This version implements a simplified spreadsheet that supports:
@@ -20,10 +21,13 @@ This version implements a simplified spreadsheet that supports:
 - Basic text input
 - Class-based modular design
 
+
+
 Technologies
 
 - Language: C++
 - Features used: Classes, basic OOP, I/O streams
+
 
 
 Version 2: Enhanced Spreadsheet (Modern C++)
@@ -38,6 +42,7 @@ This version extends the initial project with advanced C++ features and modern p
 - Namespaces for modularity  
 - Templated classes  
 - Deepened class hierarchy and design
+
 
 Technologies
 
